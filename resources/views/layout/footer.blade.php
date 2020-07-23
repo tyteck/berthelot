@@ -20,19 +20,19 @@
 
                 <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
                     <li class="list-unstyled-item d-flex">
-                        lundi <span class="ml-auto">8h00 - 19h00</span>
+                        lundi <span class="ml-auto">9h00 - 18h00</span>
                     </li>
                     <li class="list-unstyled-item d-flex">
-                        mardi <span class="ml-auto">8h00 - 19h00</span>
+                        mardi <span class="ml-auto">9h00 - 18h00</span>
                     </li>
                     <li class="list-unstyled-item d-flex">
-                        mercredi <span class="ml-auto">8h00 - 19h00</span>
+                        mercredi <span class="ml-auto">9h00 - 18h00</span>
                     </li>
                     <li class="list-unstyled-item d-flex today">
-                        jeudi <span class="ml-auto">8h00 - 19h00</span>
+                        jeudi <span class="ml-auto">9h00 - 18h00</span>
                     </li>
                     <li class="list-unstyled-item d-flex">
-                        vendredi <span class="ml-auto">8h00 - 19h00</span>
+                        vendredi <span class="ml-auto">9h00 - 18h00</span>
                     </li>
                     <li class="list-unstyled-item d-flex">
                         samedi <span class="ml-auto">fermé</span>
