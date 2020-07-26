@@ -11,6 +11,13 @@
     margin-right: 0.5rem;
 }
 
+.menuzord .menuzord-menu > li.active > a,
+.menuzord .menuzord-menu > li:hover > a,
+.menuzord .menuzord-menu ul.dropdown li:hover > a {
+    background: #6ab43e;
+    color: #fff !important;
+}
+
 .menuzord-menu > li > a {
     font-size: 13px;
     color: #333333;
@@ -20,11 +27,4 @@
     text-decoration: none;
     font-weight: 600;
     outline: 0;
-    line-height: 1.42857143;
-}
-.menuzord .menuzord-menu > li.active > a,
-.menuzord .menuzord-menu > li:hover > a,
-.menuzord .menuzord-menu ul.dropdown li:hover > a {
-    background: #6ab43e;
-    color: #fff;
 }

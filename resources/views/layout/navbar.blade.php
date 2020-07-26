@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md fixed-top border-top-theme-color-3px menuzord navbar-white bg-white">
+<nav class="navbar navbar-expand-lg fixed-top border-top-theme-color-3px navbar-light navbar-default menuzord py-0 text-white bg-white">
     <div class="container">
         <a class="navbar-brand" href="#">
             <span class="text-main-color">Stéphane</span> <span class="text-dark">Berthelot</span>

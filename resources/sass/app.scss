@@ -1,8 +1,13 @@
 // Fonts
 @import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Regular:400,300,600,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+SemiBold:400,300,600,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Bold:400,300,600,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,300,600,700");
 
 // Variables
-@import "variables", "menu";
+@import "variables", "margin-padding", "menu";
 
 // Bootstrap
 @import "~bootstrap/scss/bootstrap";
@@ -24,8 +29,43 @@ body {
     background-color: #fff;
 }
 
+h1,
+h2,
+.h1,
+.h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    line-height: 1.42857143;
+    color: #333333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h2,
+.h2 {
+    font-size: 2rem;
+}
+
+b,
+strong {
+    font-weight: 700;
+}
+
+.text-responsive {
+    font-size: calc(100% + 1vw + 1vh);
+}
+
 .text-main-color {
     color: $main-color;
+}
+
+.border-main-color {
+    border-color: $main-color;
+    border-style: solid;
+}
+
+.border-3px {
+    border-width: 3px;
 }
 
 .bg-main-color {
@@ -33,5 +73,44 @@ body {
 }
 
 .big-cover {
-    background: url("../images/panorama.jpg") no-repeat;
+    background: url("../images/panorama.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.letter-space-2 {
+    letter-spacing: 2px;
+}
+
+.btn-dark.bg-main-color {
+    color: #fff;
+    background-color: $main-color;
+    border-color: $main-color;
+}
+
+.icon-box .icon {
+    display: inline-block;
+    height: 64px;
+    margin-bottom: 20px;
+    text-align: center;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    width: 64px;
+}
+
+.font-54 {
+    font-size: 3.85714286rem !important;
+}
+
+.bg-image {
+    display: block;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.depression {
+    background: url("../images/depression.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
 }
