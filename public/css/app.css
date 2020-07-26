@@ -16,8 +16,36 @@
   margin-top: 15px !important;
 }
 
+.mb-30 {
+  margin-bottom: 30px !important;
+}
+
+.mt-30 {
+  margin-top: 30px !important;
+}
+
+.mb-50 {
+  margin-bottom: 50px !important;
+}
+
+.mt-50 {
+  margin-top: 50px !important;
+}
+
+.p-20 {
+  padding: 20px !important;
+}
+
 .p-30 {
   padding: 30px !important;
+}
+
+.pt-50 {
+  padding-top: 50px !important;
+}
+
+.font-weight-600 {
+  font-weight: 600 !important;
 }
 
 .border-top-theme-color-3px {
@@ -17087,35 +17115,28 @@ body {
   padding-top: 4.5rem;
   line-height: 1.7;
   color: #666666;
-  font-size: 14px;
   font-family: "Open Sans", sans-serif;
   background-color: #fff;
 }
 
 h1,
 h2,
-.h1,
-.h2 {
+h3,
+h4 {
   font-family: "Open Sans", sans-serif;
-  font-weight: 600;
-  line-height: 1.42857143;
   color: #333333;
-  margin-top: 20px;
-  margin-bottom: 10px;
+  line-height: 1.42857143;
 }
 
-h2,
-.h2 {
-  font-size: 2rem;
+h1,
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 b,
 strong {
   font-weight: 700;
-}
-
-.text-responsive {
-  font-size: calc(100% + 1vw + 1vh);
 }
 
 .text-main-color {
@@ -17164,15 +17185,19 @@ strong {
   font-size: 3.85714286rem !important;
 }
 
-.bg-image {
-  display: block;
-  height: 100%;
-  margin: 0 auto;
+.line-bottom {
+  position: relative;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
 }
 
-.depression {
-  background: url(/images/depression.jpg?505f88be3f7489a9f1e55fa5a8de36f6);
-  background-position: center;
-  background-repeat: no-repeat;
+.line-bottom::after {
+  bottom: -1px;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 50px;
+  background-color: #6ab43e;
 }
 

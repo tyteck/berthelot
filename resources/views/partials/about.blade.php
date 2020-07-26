@@ -5,7 +5,7 @@
                 Qui je <span class="text-main-color">suis</span>
             </h2>
             <p>
-                Passionnée par mon métier de Psychologue-Psychothérapeute, que j'exerce depuis XXXX, je vous accueille dans mon cabinet au coeur d'aspremont.
+                Passionnée par mon métier de Psychologue-Psychothérapeute, que j'exerce depuis XXXX, je vous accueille dans mon cabinet au coeur d'Aspremont.
             </p>
             <p>
                 Que ce soit pour un épisode difficile de votre vie, pour gagner en confiance ou encore pour gérer plus efficacement vos angoisses,

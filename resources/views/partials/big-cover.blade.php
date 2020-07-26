@@ -1,17 +1,16 @@
 <section id="big-cover">
     <div class="container-fluid big-cover">
-        <!-- Page Content-->
         <div class="container">
-            <div class="container mr-lg-3 text-right text-white" style="padding: 50px 0;">
-                <span class="bg-main-color text-white text-uppercase p-2 text-responsive" style="font-size:64px;">
-                    votre bien être
-                </span>
-                <p style="font-size:32px;">
-                    lorem ipsum dolore sit amet
-                </p>
-                <p style="font-size:16px;">
-                    lorem ipsum dolore sit amet
-                </p>
+            <div class="row m-0 p-0">
+                <div class="mr-lg-12 col-12 text-white text-right my-5">
+                    <h1 class="text-white text-uppercase">Stéphane Berthelot</h1>
+                    <h2 class="text-white text-uppercase">
+                        <span style="background-color:rgba(106, 180, 62, 0.7)">Psychologue familial</span>
+                    </h2>
+                    <p>
+                        lorem ipsum dolore sit amet
+                    </p>
+                </div>
             </div>
         </div>
     </div>
