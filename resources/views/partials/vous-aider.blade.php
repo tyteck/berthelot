@@ -15,7 +15,7 @@
             </div>
 
             <div class="col-md-4">
-                <div class="icon-box text-center mb-sm-40  border-3px border-main-color p-30" style="min-height:350px;">
+                <div class="icon-box text-center mb-sm-40 mb-2 border-3px border-main-color p-30" style="min-height:350px;">
                     <a href="#" class="icon">
                         <i class="fas fa-running font-54 text-main-color"></i>
                     </a>
@@ -27,7 +27,7 @@
             </div>
 
             <div class="col-md-4">
-                <div class="icon-box text-center mb-sm-40  border-3px border-main-color p-30" style="min-height:350px;">
+                <div class="icon-box text-center mb-sm-40 mb-2 border-3px border-main-color p-30" style="min-height:350px;">
                     <a href="#" class="icon">
                         <i class="far fa-heart font-54 text-main-color"></i>
                     </a>
@@ -40,6 +40,4 @@
 
         </div>
     </div>
-</section>
-
 </section>
