@@ -12,7 +12,7 @@
                     <a class="nav-link" href="#">Accueil <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#footer">Contact</a>
                 </li>
             </ul>
         </div>
