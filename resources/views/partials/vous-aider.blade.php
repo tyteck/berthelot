@@ -22,7 +22,6 @@
                     <div>
                         <h4 class="icon-box-title mt-15 mb-10 text-uppercase letter-space-2"><strong>Thérapie individuelle</strong></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam a. </p>
-                        <a href="#" class="btn btn-dark bg-main-color btn-sm mt-10">View Details</a>
                     </div>
                 </div>
             </div>
@@ -35,7 +34,6 @@
                     <div>
                         <h4 class="icon-box-title mt-15 mb-10 text-uppercase letter-space-2"><strong>Thérapie de couple</strong></h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam a. </p>
-                        <a href="#" class="btn btn-dark bg-main-color btn-sm mt-10">View Details</a>
                     </div>
                 </div>
             </div>

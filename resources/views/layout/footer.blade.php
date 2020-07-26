@@ -26,7 +26,7 @@
                     <p>Du lundi au vendredi de 9h à 18h</p>
 
                     <h3 class="text-uppercase mt-0 text-white text-center">Tarifs</h3>
-                    <p>Tarifs conventionnés : 50€ </p>
+                    <p>Tarifs conventionnés : 50€/h</p>
                 </div>
             </div>
         </div>
